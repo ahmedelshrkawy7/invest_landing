@@ -18,7 +18,7 @@ const Roadmap = () => {
             data-wow-duration="0.8s"
             data-wow-delay="0.25s"
           >
-            مميزات تطبيق "Smart Trade"{" "}
+            {t("goods")}
           </h2>
           <div className="empty-space col-md-b25 col-xs-b10"></div>
           <div

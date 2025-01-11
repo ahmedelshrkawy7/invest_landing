@@ -11,7 +11,7 @@ const Header = () => {
     console.log("🚀 ~ changeLang ~ lang:", lang);
     i18n.changeLanguage(lang);
     setShow(false);
-    document.documentElement.dir = i18n.language === "ar" ? "rtl" : "ltr";
+    // document.documentElement.dir = i18n.language === "ar" ? "rtl" : "ltr";
     e.stopPropagation();
   }
 

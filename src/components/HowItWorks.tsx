@@ -44,7 +44,7 @@ const HowItWorks = () => {
             data-wow-duration="0.8s"
             data-wow-delay="0.45s"
           >
-            انظر للمزايا
+            {t("seeFetures")}
           </h2>
         </div>
         <div className="empty-space col-md-b55 col-xs-b35"></div>
