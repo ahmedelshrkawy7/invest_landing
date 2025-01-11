@@ -6,7 +6,7 @@ const HowItWorks = () => {
     <section
       className="tm-ocher-work tm-bg"
       id="howitworks"
-      style={{ backgroundImage: "url(assets/img/greeen-adventages3.jpg)" }}
+      style={{ backgroundImage: "url(img/greeen-adventages3.jpg)" }}
     >
       <div className="empty-space col-md-b85 col-xs-b50"></div>
       <div className="container">
