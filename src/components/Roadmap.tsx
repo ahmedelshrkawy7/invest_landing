@@ -8,7 +8,7 @@ const Roadmap = () => {
     <section
       className="tm-roadmap-wrap tm-gray-bg tm-bg"
       id="roadmap"
-      style={{ backgroundImage: "url(assets/img/greeen-roadmap3.png)" }}
+      style={{ backgroundImage: "url(img/greeen-roadmap3.png)" }}
     >
       <div className="empty-space col-md-b90 col-xs-b55"></div>
       <div className="container">
