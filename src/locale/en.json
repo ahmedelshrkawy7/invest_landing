@@ -1,0 +1,58 @@
+{
+  "About": "About",
+  "How It Works": "How It Works",
+  "Token Sale": "Token Sale",
+  "Bounty": "Bounty",
+  "Roadmap": "Roadmap",
+  "Team": "Team",
+  "Faq": "Faq",
+  "intro": "Smart trading starts here with Smart Trade",
+  "smallBrief": "Welcome to Smart Trade, the leading app in the world of digital currency trading! Whether you are a beginner or a professional, we provide you with smart and secure tools to achieve profits with ease and flexibility. The app relies on scalping trading.",
+  "whatScalbing": "what is scalbing?",
+  "scalpingDefinition": "Scalping trading is a trading strategy based on making small, frequent profits by opening and closing trades in a very short period of time, ranging from seconds to minutes.",
+  "scalpingPreference": "This type of trading is ideal for those who prefer quick market movements and want to take advantage of small price fluctuations in digital currencies or other financial instruments.",
+  "whyChooseSmartTrade": "Why choose Smart Trade?",
+  "features": {
+    "blockchainWallet": "Private Blockchain Wallet",
+    "uniqueDepositWithdrawal": "Unique Deposit and Withdrawal Mechanism",
+    "fastProfits": "Quick Profits",
+    "easyFlexible": "Ease and Flexibility"
+  },
+  "appAdvantages": {
+    "scalpingTrading": {
+      "title": "Scalping Trading - Quick Profit Opportunity",
+      "description": "Learn and apply the best scalping strategies to achieve quick gains over short periods of time. Trade daily, weekly, or monthly according to your preference."
+    },
+    "blockchainWallet": {
+      "title": "Private Blockchain Wallet",
+      "description": "A fully secure wallet on the blockchain, ensuring that the app cannot control your funds. Complete control is in your hands for maximum privacy and security."
+    },
+    "depositWithdrawal": {
+      "title": "Unique Deposit and Withdrawal Mechanism",
+      "description": "For the first time, your earned funds remain completely under your control. Withdraw your profits directly and deposit back to the company as you wish."
+    },
+    "flexibility": {
+      "title": "Ease and Flexibility",
+      "description": "Simple and smooth user interface suitable for all users. Trade according to your needs: daily, weekly, or monthly."
+    },
+    "expertSupport": {
+      "title": "Expert Support Team",
+      "description": "A professional team of highly experienced trading experts ready to provide advice and assistance to improve your profits."
+    },
+    "trustedSupport": {
+      "title": "Trusted Support",
+      "description": "The app is based in the UAE, ensuring reliability and quality."
+    }
+  },
+  "howToStart": {
+    "title": "How to Start?",
+    "steps": [
+      "Download the Smart Trade app now.",
+      "Create your personal account and link your secure wallet.",
+      "Choose the type of trading that suits you and start your profit journey!"
+    ]
+  },
+  "why": "Why?",
+  "gameChanger":"Smart trading is the game changer"
+   
+}
