@@ -6,7 +6,7 @@ const HeroSection = () => {
     <section
       className="tm-hero-section tm-style1 tm-bg"
       id="home"
-      style={{ backgroundImage: "url(assets/img/hero-bg-v3.jpg)" }}
+      style={{ backgroundImage: "url(img/hero-bg-v3.jpg)" }}
     >
       <div className="container">
         <div className="row">
@@ -54,9 +54,9 @@ const HeroSection = () => {
           <div className="col-lg-6">
             <div className="tm-about-img-wrap">
               <div className="tm-about-img">
-                <img src="assets/img/about-img3.png" alt="" />
+                <img src="img/about-img3.png" alt="" />
                 <img
-                  src="assets/img/purple-ethereum1.png"
+                  src="img/purple-ethereum1.png"
                   alt=""
                   className="tm-ethereum"
                 />

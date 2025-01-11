@@ -15,12 +15,9 @@ const About = () => {
           <div className="col-lg-6">
             <div className="tm-about-img-wrap">
               <div className="tm-about-img">
+                <img src="img/about-img2.png" alt="About ERC20 Token ICO" />
                 <img
-                  src="assets/img/about-img2.png"
-                  alt="About ERC20 Token ICO"
-                />
-                <img
-                  src="assets/img/green-ethereum1.png"
+                  src="img/green-ethereum1.png"
                   alt="Ethereum Icon"
                   className="tm-ethereum"
                 />
