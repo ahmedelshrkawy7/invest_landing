@@ -25,11 +25,6 @@ const Header = () => {
             <a href="index.html" className="tm-logo-link">
               {/* <img src={logo} alt="" className="tm-logo" /> */}
               <h2>Smart Trade</h2>
-              <img
-                src="assets/img/green-logo-mobile.png"
-                alt=""
-                className="tm-mobile-logo"
-              />
             </a>
             {/* For Site Title */}
             {/* <span className="tm-site-title">
