@@ -33,20 +33,23 @@ const HeroSection = () => {
                 </h2>
               </div>
               <div className="empty-space col-xs-b25"></div>
-              {/* <div className="tm-overflow-hidden">
+              <div className="tm-overflow-hidden">
                 <div
                   className="tm-btn-group wow fadeInUp"
                   data-wow-duration="0.8s"
                   data-wow-delay="1.15s"
                 >
-                  <a href="#" className="tm-btn tm-style1">
-                    Buy Token
+                  <a
+                    href="https://play.google.com/store/apps/details?id=com.arkanInvestment.arkan"
+                    className="tm-btn tm-style1"
+                  >
+                    Download Now
                   </a>
-                  <a href="#" className="tm-btn tm-style1 tm-with-border">
+                  {/* <a href="#" className="tm-btn tm-style1 tm-with-border">
                     Learn More
-                  </a>
+                  </a> */}
                 </div>
-              </div> */}
+              </div>
             </div>
           </div>
 

@@ -5,9 +5,8 @@ import HeroSection from "./components/Hero";
 import About from "./components/About";
 import Video from "./components/Video";
 import HowItWorks from "./components/HowItWorks";
-import TokenSale from "./components/TokenSale";
-import OutTeem from "./components/OutTeem";
 import Roadmap from "./components/Roadmap";
+import HowToStart from "./components/HowtoStart";
 
 function App() {
   return (
@@ -21,6 +20,7 @@ function App() {
       {/* <TokenSale /> */}
       <Roadmap />
       {/* <OutTeem /> */}
+      <HowToStart />
     </>
   );
 }
