@@ -1,6 +1,6 @@
 import { useTranslation } from "react-i18next";
 // import { mobileLogo } from "../imports.js";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 
 const Header = () => {
   const [show, setShow] = useState(false);

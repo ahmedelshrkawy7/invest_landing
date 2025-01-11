@@ -1,5 +1,3 @@
-import React from "react";
-
 const NavigationBar = () => {
   const navLinks = [
     { href: "#home", label: "Home" },
@@ -18,7 +16,11 @@ const NavigationBar = () => {
 
   return (
     <div className="tm-section-active tm-fix-bar">
-      <ul className="wow fadeInRight" data-wow-duration="0.8s" data-wow-delay="0.5s">
+      <ul
+        className="wow fadeInRight"
+        data-wow-duration="0.8s"
+        data-wow-delay="0.5s"
+      >
         {navLinks.map((link, index) => (
           <li key={index}>
             <a href={link.href} className="nav-link">

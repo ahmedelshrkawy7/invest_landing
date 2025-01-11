@@ -1,4 +1,3 @@
-import React from "react";
 import { useTranslation } from "react-i18next";
 
 const HeroSection = () => {
@@ -71,17 +70,17 @@ const HeroSection = () => {
 };
 
 // Helper Component for Countdown Elements
-const CountdownElement = ({ id, label }: { id: string; label: string }) => (
-  <div className="countdown-element">
-    <div
-      id={id}
-      className="tm-f50 tm-md-f50 tm-green-c tm-fw-medium tm-lh62 tm-oswald-fonts"
-    ></div>
-    <span className="tm-white-c">{label}</span>
-  </div>
-);
+// const CountdownElement = ({ id, label }: { id: string; label: string }) => (
+//   <div className="countdown-element">
+//     <div
+//       id={id}
+//       className="tm-f50 tm-md-f50 tm-green-c tm-fw-medium tm-lh62 tm-oswald-fonts"
+//     ></div>
+//     <span className="tm-white-c">{label}</span>
+//   </div>
+// );
 
 // Helper Component for Separator
-const Separator = () => <span className="tm-sep tm-f60 tm-green-c">:</span>;
+// const Separator = () => <span className="tm-sep tm-f60 tm-green-c">:</span>;
 
 export default HeroSection;

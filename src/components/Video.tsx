@@ -1,5 +1,3 @@
-import React from "react";
-
 const Video = () => {
   return (
     <div className="tm-about-video" id="video">
